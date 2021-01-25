@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d48f294b-719d-4b04-be3f-64d4e14a21b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1nRQZr2TB9nQAvKoENpsssbIShw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="ZenionTM" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d48f294b-719d-4b04-be3f-64d4e14a21b8" name="Default Changelist" comment="" />
+      <created>1611350484148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611350484148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611563928754">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1611563928754" />
+    <state width="1316" height="340" key="GridCell.Tab.0.bottom" timestamp="1611581053546">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="340" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1611581053546" />
+    <state width="1316" height="340" key="GridCell.Tab.0.center" timestamp="1611581053546">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="340" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1611581053546" />
+    <state width="1316" height="340" key="GridCell.Tab.0.left" timestamp="1611581053546">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="340" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1611581053546" />
+    <state width="1316" height="340" key="GridCell.Tab.0.right" timestamp="1611581053546">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="340" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1611581053546" />
+    <state x="456" y="83" key="RollbackChangesDialog" timestamp="1611571225387">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="456" y="83" key="RollbackChangesDialog/0.0.1360.728@0.0.1360.728" timestamp="1611571225387" />
+    <state x="225" y="95" width="909" height="633" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1611504912237">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="225" y="95" width="909" height="633" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1360.728@0.0.1360.728" timestamp="1611504912237" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
